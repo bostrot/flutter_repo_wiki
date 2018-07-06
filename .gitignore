@@ -7,3 +7,8 @@
 build/
 
 .flutter-plugins
+.json
+.log
+.metadata
+
+web/
